@@ -1,6 +1,6 @@
 # offense_poc
 
-_24 entries_
+_26 entries_
 
 - **[pwntools](https://github.com/Gallopsled/pwntools)** ★13686 — CTF/exploit development library  
   tags: `lab-usable, reference-impl`  
@@ -93,6 +93,14 @@ _24 entries_
 - **[kernel-research](https://github.com/google/kernel-research)** ★89 — Google kernel research artifacts  
   tags: `paper-repro`  
   smoke: No clone; metadata-only smoke
+
+- **[SyzScope](https://github.com/plummm/SyzScope)** ★85 — SyzScope — exploitability assessment for syzkaller bugs.  
+  tags: `paper-repro, lab-usable`  
+  smoke: Research.
+
+- **[SyzBridge](https://github.com/seclab-ucr/SyzBridge)** ★39 — SyzBridge — bridge syzkaller bugs toward exploitability analysis.  
+  tags: `paper-repro, lab-usable`  
+  smoke: Research pipeline with syzkaller.
 
 - **[blindside](https://github.com/vusec/blindside)** ★37 — BlindSide speculative execution research  
   tags: `paper-repro`  
