@@ -1,6 +1,6 @@
 # emulate_fuzz
 
-_38 entries_
+_39 entries_
 
 - **[oss-fuzz](https://github.com/google/oss-fuzz)** ★12636 — Continuous fuzzing for open source (hosts many projects)  
   tags: `daily-ops, reference-impl`  
@@ -105,6 +105,10 @@ _38 entries_
 - **[ebpf-fuzzer](https://github.com/snorez/ebpf-fuzzer)** ★83 — eBPF subsystem fuzzer  
   tags: `paper-repro, lab-usable`  
   smoke: No clone; metadata-only smoke
+
+- **[SyzGPT](https://github.com/QGrain/SyzGPT)** ★63 — SyzGPT — LLM+RAG seeds for low-frequency syscalls (ISSTA 2025).  
+  tags: `paper-repro, lab-usable`  
+  smoke: Research prototype; pair with syzkaller.
 
 - **[vock](https://github.com/yskzalloc/vock)** ★62 — VOCK kernel concurrency fuzzing research  
   tags: `paper-repro`  

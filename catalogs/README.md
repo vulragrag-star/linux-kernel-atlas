@@ -3,7 +3,7 @@
 - [acquire](acquire.md) (1)
 - [dataset](dataset.md) (1)
 - [defend_harden](defend_harden.md) (9)
-- [emulate_fuzz](emulate_fuzz.md) (38)
+- [emulate_fuzz](emulate_fuzz.md) (39)
 - [lab_teaching](lab_teaching.md) (13)
 - [offense_poc](offense_poc.md) (24)
 - [paper_map](paper_map.md) (5)
