@@ -1,6 +1,6 @@
 # emulate_fuzz
 
-_39 entries_
+_40 entries_
 
 - **[oss-fuzz](https://github.com/google/oss-fuzz)** ★12636 — Continuous fuzzing for open source (hosts many projects)  
   tags: `daily-ops, reference-impl`  
@@ -157,3 +157,7 @@ _39 entries_
 - **[StepStone](https://github.com/seclab-ucr/StepStone)** ★11 — LLM-based GPU kernel driver fuzzing via user-space libraries  
   tags: `paper-repro`  
   smoke: No clone; metadata-only smoke
+
+- **[HEALER (index)](https://github.com/search?q=HEALER+syzkaller)** ★? — HEALER syscall-relation kernel fuzzer (index; canonical repo path noisy).  
+  tags: `paper-repro`  
+  smoke: INDEX ONLY — verify upstream before citing as installable.

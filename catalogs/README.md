@@ -1,9 +1,9 @@
 # Catalogs by closed-loop stage
 
 - [acquire](acquire.md) (1)
-- [dataset](dataset.md) (1)
+- [dataset](dataset.md) (2)
 - [defend_harden](defend_harden.md) (9)
-- [emulate_fuzz](emulate_fuzz.md) (39)
+- [emulate_fuzz](emulate_fuzz.md) (40)
 - [lab_teaching](lab_teaching.md) (13)
 - [offense_poc](offense_poc.md) (24)
 - [paper_map](paper_map.md) (5)
@@ -12,3 +12,4 @@
 - [spec](spec.md) (3)
 - [static_re](static_re.md) (11)
 - [vuln_intel](vuln_intel.md) (6)
+- [index_uncertain](index_uncertain.md)
