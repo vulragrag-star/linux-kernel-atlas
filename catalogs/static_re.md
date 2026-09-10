@@ -1,6 +1,6 @@
 # static_re
 
-_11 entries_
+_12 entries_
 
 - **[weggli](https://github.com/weggli-rs/weggli)** ★2494 — Semantic pattern search for C/C++ (kernel codebases)  
   tags: `lab-usable, paper-repro, daily-ops`  
@@ -45,3 +45,7 @@ _11 entries_
 - **[kropr](https://github.com/zolutal/kropr)** ★45 — Kernel ROP gadget / exploit helper  
   tags: `lab-usable, paper-repro`  
   smoke: No clone; metadata-only smoke
+
+- **[SibylFS](https://github.com/sibylfs/sibylfs_src)** ★38 — FS semantic checker used by Hydra  
+  tags: `paper-repro, lab-usable`  
+  smoke: FS semantic checker used by Hydra
