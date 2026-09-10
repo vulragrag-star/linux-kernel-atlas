@@ -1,0 +1,3 @@
+{"id": "fence_uefi", "reason": "UEFI tools belong in uefi-firmware-atlas"}
+{"id": "fence_iot_dumps", "reason": "Router/OpenWrt firmware dumps belong in iot-firmware-atlas"}
+{"id": "fringe_userspace_obs", "reason": "bcc/bpftrace/falco/sysdig etc. marked fringe \u2014 observability adjacent, not kernel vuln research core"}
